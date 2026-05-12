@@ -48,3 +48,6 @@ digraph pnpm {
 - Using `npx` instead of `pnpm dlx` — always prefer the pnpm equivalent
 - Running `npm install` after cloning a pnpm project — check for `pnpm-lock.yaml` first
 - Forgetting `-w` flag in monorepos — `pnpm add -w <pkg>` to install at root
+
+
+test line
