@@ -1,4 +1,4 @@
 interface:
-  display_name: "国网技术标写作"
-  short_description: "撰写和审查国网软件技术标"
-  default_prompt: "使用 $writing-bid-technical-doc 根据招标材料撰写或审查国网软件开发类技术标文档。"
+  display_name: "国网项目理解写作"
+  short_description: "撰写和审查对项目的理解章节"
+  default_prompt: "使用 $writing-bid-technical-doc 根据招标公告、招标文件和技术规范书撰写或审查“对项目的理解”章节。"
