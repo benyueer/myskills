@@ -1,4 +1,4 @@
 interface:
   display_name: "国网项目理解写作"
-  short_description: "撰写和审查对项目的理解章节"
-  default_prompt: "使用 $writing-bid-technical-doc 根据招标公告、招标文件和技术规范书撰写或审查“对项目的理解”章节。"
+  short_description: "撰写项目理解并核对人员配置"
+  default_prompt: "使用 $writing-bid-technical-doc 根据招标公告、招标文件和技术规范书撰写或审查“对项目的理解”章节；如需人员核对，请检查完整技术文件中的项目团队情况、人员汇总表、详细人员信息和人天计划。"
